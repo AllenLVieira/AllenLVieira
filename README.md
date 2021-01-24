@@ -1,18 +1,18 @@
-### Olá, eu sou Allen Vieira!
+### Olá, eu sou Allen Vieira! | Hi, I'm Allen Vieira!
 
-## Sou engenheiro de produção, apaixonado por números, e estudando para ser um desenvolvedor
-- 🍀 Aprendendo sobre tudo que for possível
-- 💻 Buscando ser um desenvolvedor Full Stack
-- ⚡ Curiosidade: Adoro tocar violão e meu heroi favorito é o Flash
+## Sou engenheiro de produção, apaixonado por números, e estudando para ser um desenvolvedor | I'm a production engineer, passionate about numbers, and studying to be a developer
+- 🍀 Aprendendo sobre tudo que for possível | Learning about everything possible
+- 💻 Buscando ser um desenvolvedor Full Stack | Seeking to be a Full Stack Developer
+- ⚡ Curiosidade: Adoro tocar violão e meu heroi favorito é o Flash | Fun fact: I love to play guitar and my favorite hero is Flash
 
-### Minhas redes sociais
+### Minhas redes sociais | Social networks
 
 [<img align = "left" alt = "Linkedin | Allen Vieira" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 [<img align = "left" alt = "Instagram | Allen Vieira" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][linkedin]
 
 <br />
-
-### Linguagens e ferramentas que estou aprendendo (Generation Brasil)
+ 
+### Linguagens e ferramentas que estou aprendendo (Generation Brasil) | Languages and tools that I'm learning (Generation Brazil)
 
 [<img align = "left" alt = "Java | Allen Vieira" width = "30px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][linkedin]
 [<img align = "left" alt = "HTML | Allen Vieira" width = "30px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
