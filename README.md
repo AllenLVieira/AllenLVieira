@@ -1,8 +1,8 @@
 ### Olá, eu sou Allen Vieira! | Hi, I'm Allen Vieira!
 
-## Sou engenheiro de produção, apaixonado por números, e estudando para ser um desenvolvedor | I'm a production engineer, passionate about numbers, and studying to be a developer
+## Sou engenheiro de produção, apaixonado por números, e atuo como desenvolvedor backend | I'm a production engineer, passionate about numbers, and I work as a backend developer
 - 🍀 Aprendendo sobre tudo que for possível | Learning about everything possible
-- 💻 Buscando ser um desenvolvedor Full Stack | Seeking to be a Full Stack Developer
+- 💻 Desenvolvedor backend no Itaú | Backend developer at Itaú
 - ⚡ Curiosidade: Adoro tocar violão e meu heroi favorito é o Flash | Fun fact: I love to play guitar and my favorite hero is Flash
 
 ### Minhas redes sociais | Social networks
